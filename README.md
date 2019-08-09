@@ -1,2 +1,3 @@
 # CNC_Projects
-![](positioning hammer/positioningHammer.gif)
+Positioning Hammer
+![](positioningHammer.gif)
